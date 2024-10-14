@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'A Kasm Registry',
     description: 'Some Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/d-x-b/aakasmregistry',
+    listUrl: 'https://github.com/d-x-b/aakasmregistry/',
     contactUrl: 'https://github.com/d-x-b/aakasmregistry/support',
   },
   reactStrictMode: true,
